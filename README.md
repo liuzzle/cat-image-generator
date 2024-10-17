@@ -5,9 +5,13 @@ This project is a simple webpage that fetches and displays a random cat picture 
 ### Features
 
 •	Fetches random cat pictures from The Cat API.
+
 •	Displays the cat picture on the webpage.
+
 •	Button to load a new cat picture on demand.
+
 •	Built with HTML, CSS, and JavaScript.
+
 •	Responsive layout using Bootstrap.
 
 ### How to Run the Project
