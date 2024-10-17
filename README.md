@@ -19,11 +19,12 @@ This project is a simple webpage that fetches and displays a random cat picture 
 
 ### Dependencies
 
-	•	Bootstrap 5.1 for responsive layout and styling.
+Bootstrap 5.1 for responsive layout and styling.
+https://getbootstrap.com/
 
 ### API Used
 
-	•	The Cat API
+The Cat API https://thecatapi.com/
 
 ### License
 
