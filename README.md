@@ -12,11 +12,16 @@ This project is a simple webpage that fetches and displays a random cat picture 
 
 ### How to Run the Project
 1. Clone the repository:
-   `bash git clone https://github.com/yourusername/random-cat-picture-generator.git`
-2. Navigate to the project directory:
-   `bash cd random-cat-picture-generator`
-3. Open the index.html file in your browser:
-   `bash open index.html`
+   
+   `$git clone https://github.com/yourusername/random-cat-picture-generator.git`
+   
+3. Navigate to the project directory:
+   
+   `$cd random-cat-picture-generator`
+
+5. Open the index.html file in your browser:
+   
+   `$bash open index.html`
 
 Alternatively, you can host the project locally using a tool like Live Server in VSCode.
 
