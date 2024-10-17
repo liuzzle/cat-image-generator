@@ -21,7 +21,7 @@ This project is a simple webpage that fetches and displays a random cat picture 
 
 5. Open the index.html file in your browser:
    
-   `$bash open index.html`
+   `$open index.html`
 
 Alternatively, you can host the project locally using a tool like Live Server in VSCode.
 
