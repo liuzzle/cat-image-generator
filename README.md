@@ -3,30 +3,25 @@
 This project is a simple webpage that fetches and displays a random cat picture from **The Cat API** when a button is clicked.
 
 ### Features
-
-•	Fetches random cat pictures from The Cat API.
-
-•	Displays the cat picture on the webpage.
-
-•	Button to load a new cat picture on demand.
-
-•	Built with HTML, CSS, and JavaScript.
-
-•	Responsive layout using Bootstrap.
+- Fetches random cat pictures from The Cat API.
+- Displays the cat picture on the webpage.
+- Button to load a new cat picture on demand.
+- Built with HTML, CSS, and JavaScript.
+- Responsive layout using Bootstrap.
 
 ### How to Run the Project
 1. Clone the repository:
    
-   `$git clone https://github.com/yourusername/random-cat-picture-generator.git`
+   `$ git clone https://github.com/yourusername/random-cat-picture-generator.git`
    
 3. Navigate to the project directory:
    
-   `$cd random-cat-picture-generator`
+   `$ cd random-cat-picture-generator`
 
 5. Open the index.html file in your browser:
    
-   `$open index.html`
-
+   `$ open index.html`
+ 
 Alternatively, you can host the project locally using a tool like Live Server in VSCode.
 
 ### How It Works
